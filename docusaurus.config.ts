@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://gemini-user.github.io',
+  url: 'https://ayeshahzaib.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/gemini-book/',
+  baseUrl: '/AI---book/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'gemini-user', // Usually your GitHub org/user name.
-  projectName: 'gemini-book', // Usually your repo name.
+  organizationName: 'AyeshaShahzaib', // Usually your GitHub org/user name.
+  projectName: 'AI---book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
