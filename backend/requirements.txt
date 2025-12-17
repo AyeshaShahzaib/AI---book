@@ -1,0 +1,8 @@
+fastapi
+pydantic
+langchain-huggingface
+langchain-qdrant
+qdrant-client
+langchain-groq
+uvicorn
+python-dotenv
