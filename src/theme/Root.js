@@ -1,5 +1,5 @@
 import React from 'react';
-import OriginalRoot from '@docusaurus/theme-classic/lib/theme/Root';
+import OriginalRoot from '@docusaurus/theme-classic/theme/Root';
 import { AuthProvider } from '../contexts/AuthContext';
 
 function Root(props) {
